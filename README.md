@@ -11,10 +11,10 @@ Follow pySLAM installation instructions and then copy files from this repo insid
 ---
 
 To run the baseline single feature detector based VO, run the following command inside the pySLAM directory:
-'python3 main_vo.py'
+`python3 main_vo.py`
 
 To run the modified VO which uses 2 different feature detectors to improve perfromance, run the following command inside pySLAM directory:
-'python3 main.py'
+`python3 main.py`
 
 ---
 
